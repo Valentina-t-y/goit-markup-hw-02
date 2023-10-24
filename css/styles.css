@@ -49,6 +49,9 @@ body {
   color: #404bbf;
 }
 
+.contacts {
+  font-style: normal;
+}
 .contact-list-link {
   font-size: 16px;
   font-weight: 400;
