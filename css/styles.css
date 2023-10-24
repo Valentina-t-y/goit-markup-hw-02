@@ -65,6 +65,9 @@ body {
   color: #404bbf;
 }
 
+.hero {
+  background-color: #2e2f42;
+}
 .main-title {
   font-size: 56px;
   font-weight: 700;
