@@ -86,14 +86,14 @@ body {
   background-color: #4d5ae5;
 }
 
-order-service-btn:hover,
-order-service-btn:focus {
+.order-service-btn:hover,
+.order-service-btn:focus {
   background-color: #404bbf;
 }
 
 .benefits-list-title {
   color: #2e2f42;
-  font-size: 20px;
+  font-size: 20px;.
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
